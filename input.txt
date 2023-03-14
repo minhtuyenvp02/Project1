@@ -1,0 +1,2 @@
+Khi ghi đè thì dữ liệu cũ sẽ bị xoá
+pythonjavajavascript
