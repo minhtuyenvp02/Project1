@@ -5,8 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59edac94-3f03-4094-a8fc-6b71684ea389" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Project1_C" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_C" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1_C/Project1_C.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_C/Project1_C.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap1/Chap1_B1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap1/Chap1_B1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap1/Chap1_B2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap1/Chap1_B2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap1/Chap1_B3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap1/Chap1_B3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B10.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B11.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B11.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B12.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B12.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B13.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B14.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B14.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B15.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B15.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B16.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B16.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B17.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B17.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B18.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B18.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B19.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B19.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B20.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B20.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B21.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B21.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B22.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B22.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B7.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B7.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B8.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B8.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B9.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap2/Chap2_B9.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B11.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B12.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B12.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B13.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B14.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B14.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B15.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B16.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B17.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B17.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B18.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B18.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B19.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B19.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B20.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B21.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B21.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B22.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B22.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B23.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B23.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap3/Chap3_B9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap4/Chap4_B1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap4/Chap4_B1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap4/Chap4_B2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap4/Chap4_B2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap4/Chap4_B3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap4/Chap4_B3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_C/Chap5/Chap5_B1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Code_C/Chap5/Chap5_B1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/Chap4_Struct/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/Chap4_Struct/Bai1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/Chap4_Struct/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/Chap4_Struct/Bai2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap1_vao_ra_du_lieu/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap1_vao_ra_du_lieu/Bai1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap1_vao_ra_du_lieu/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap1_vao_ra_du_lieu/Bai2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap1_vao_ra_du_lieu/Bai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap1_vao_ra_du_lieu/Bai3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap2_cau_truc_dieu_khien/Bai9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap3_mang_xaukitu/Bai9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_Python/chap6_file/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_Python/chap6_file/Bai1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-language.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-language.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

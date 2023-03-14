@@ -5,7 +5,6 @@ Bài5: Trong một năm các tháng có 30 ngày là 4, 6,
 viết chương trình nhập vào năm và một tháng bất kì, sau đó đưa ra
 kết luận tháng đó có bao nhiêu ngày
 '''
-
 sample = [31 , 28, 31, 30, 31, 30, 31, 31, 30, 31, 30,31]
 n = int(input("Nhập năm: "))
 

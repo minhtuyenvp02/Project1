@@ -30,40 +30,25 @@ def check_khac_phia(A=None, B=None, C=None, M=None):
         return None
     else:
         if not a:
-            if (M["x"] - A["x"]) * (C["x"] - A["x"]) == 0:
-                return 0
-            elif (M["x"] - A["x"]) * (C["x"] - A["x"]) < 0:
-                return -1
-            else:
-                return 1
+            if (M["x"] - A["x"]) * (C["x"] - A["x"]) == 0: return 0
+            elif (M["x"] - A["x"]) * (C["x"] - A["x"]) < 0: return -1
+            else: return 1
         elif not b:
-            if (M["y"] - A["y"]) * (C["y"] - A["y"]) == 0:
-                return 0
-            elif (M["y"] - A["y"]) * (C["y"] - A["y"]) < 0:
-                return -1
-            else:
-                return 1
+            if (M["y"] - A["y"]) * (C["y"] - A["y"]) == 0: return 0
+            elif (M["y"] - A["y"]) * (C["y"] - A["y"]) < 0: return -1
+            else: return 1
         else:
             fC = float(C["x"] - A["x"]) / a - float(C["y"] - A["y"]) / b
             fM = float(M["x"] - A["x"]) / a - float(M["y"] - A["y"]) / b
-            if fC * fM < 0:
-                return -1
-            elif fC * fM == 0:
-                return 0
-            else:
-                return 1
-
+            if fC * fM < 0: return -1
+            elif fC * fM == 0: return 0
+            else: return 1
 a = check_khac_phia(B, C, A, M)
 b = check_khac_phia(A, C, B, M)
 c = check_khac_phia(A, B, C, M)
 if a * b * c == 0:
-    if not a:
-        print("M nằm trên cạnh BC")
-    elif not b:
-        print("M nằm trên cạnh AC")
-    else:
-        print("M nằm trên cạnh AB")
-elif (a * b < 0) or (b * c < 0) or (a * c < 0):
-    print("M nằm ngoài tam giác ABC")
-else:
-    print("M nằm trong tam giác ABC")
+    if not a: print("M nằm trên cạnh BC")
+    elif not b: print("M nằm trên cạnh AC")
+    else: print("M nằm trên cạnh AB")
+elif (a * b < 0) or (b * c < 0) or (a * c < 0): print("M nằm ngoài tam giác ABC")
+else: print("M nằm trong tam giác ABC")

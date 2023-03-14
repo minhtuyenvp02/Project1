@@ -1,6 +1,4 @@
 #Giải phương trình ax+b = 0
-
-
 a = float(input("Nhập hệ số a: "))
 b = float(input("Nhập hệ số b: "))
 if a == 0:

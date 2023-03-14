@@ -12,4 +12,4 @@ while 1:
 P = 2 * r * math.pi
 S = r * r * math.pi
 print("Chu vi đường tròn là: {:.2f}".format(P))
-print(f"Diện tích đường tròn là: {:.2f}".format(else))
+print("Diện tích đường tròn là: {:.2f}".format(S))

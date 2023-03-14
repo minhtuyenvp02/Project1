@@ -11,6 +11,6 @@ while 1:
         break
     else:
         print("Gia tri nay phai  > 0")
-print(f"Chu vi hinh tron la: {:.2f}".format(2 * a * PI))
-print(f"Chu vi tam giac deu la: {:.2f}".format(3 * a))
-print(f"Chu vi hinh vuong la: {:.2f}".format(4 * a))
+print("Chu vi hinh tron la: {:.2f}".format(2 * r * math.pi))
+print("Chu vi tam giac deu la: {:.2f}".format(3 * r))
+print("Chu vi hinh vuong la: {:.2f}".format(4 * r))

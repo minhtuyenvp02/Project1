@@ -1,7 +1,6 @@
 '''
 Bài 1: Nhập mảng, đưa ra trung bình cộng các số chia hết cho 7
 '''
-
 from statistics import mean
 n = int(input("Nhập số phần tử của mảng: "))
 arr = list(map(int, input("Nhập các phần tử của mảng: ").split()[:n]))

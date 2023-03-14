@@ -3,7 +3,6 @@ Bài 17: Cài đặt thuật toán mergesort
 '''
 # Python CODE
 MAX = 1000
-
 while True:
     n = int(input("Nhập số phần tử của dãy "))
     if n <= 0 or n > MAX:
@@ -11,8 +10,6 @@ while True:
     else:
         break
 arr = list(map(int, input("Nhập dãy số: ").split()[:n]))
-
-
 def merge(arr1, l, m, r):
     n1 = m - l + 1
     n2 = r - m
@@ -48,8 +45,6 @@ def merge(arr1, l, m, r):
         arr1[k] = R[j]
         j += 1
         k += 1
-
-
 def merge_sort(arr1, l, r):
     if l < r:
         m = l + (r - l) // 2

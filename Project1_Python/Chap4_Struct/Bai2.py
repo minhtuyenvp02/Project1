@@ -19,7 +19,6 @@ print("{:^26}{:^10}".format("Họ Tên", "Năm Sinh"))
 for x in DS:
     i+=1
     _min = min(_min, int(DS[x]))
-
     print("{:<6}{:<20}{:^8}".format(i, x, DS[x]))
 print("Sinh viên lớn tuổi nhất là:")
 for x in DS:

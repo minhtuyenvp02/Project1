@@ -1,8 +1,7 @@
 '''
-BÀi 14: Cài đặt thuật toán Insertipn sort
+BÀi 14: Cài đặt thuật toán Insertion sort
 '''
 MAX = 1000
-
 while True:
     n = int(input("Nhập số phần tử cảu dãy "))
     if n <= 0 or n > MAX:
@@ -10,8 +9,6 @@ while True:
     else:
         break
 arr = list(map(int, input("Nhập dãy số: ").split()[:n]))
-
-
 def insertion_sort(arr, n):
     for i in range(1, n):
         key = arr[i]
@@ -21,7 +18,6 @@ def insertion_sort(arr, n):
             arr[j + 1] = arr[j]
             j -= 1
         arr[j + 1] = key
-
 print("Dãy trước khi sắp xếp là: ")
 print(arr)
 insertion_sort(arr, n)

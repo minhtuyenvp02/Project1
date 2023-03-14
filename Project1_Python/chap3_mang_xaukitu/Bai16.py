@@ -3,7 +3,6 @@ Bài 16: Cài đặt thuật toán BUBLE SORT
 '''
 
 MAX = 1000
-
 while True:
     n = int(input("Nhập số phần tử của dãy "))
     if n <= 0 or n > MAX:
@@ -11,7 +10,6 @@ while True:
     else:
         break
 arr = list(map(int, input("Nhập dãy số: ").split()[:n]))
-
 def buble_sort(arr, n):
     for i in range(0,n):
         swapped = False
@@ -21,7 +19,6 @@ def buble_sort(arr, n):
                 swapped = True
         if not swapped:
             break
-
 print("Dãy trước khi sắp xếp là: ")
 print(arr)
 buble_sort(arr, n)

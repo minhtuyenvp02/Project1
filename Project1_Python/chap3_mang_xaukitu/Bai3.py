@@ -2,7 +2,6 @@
 Bài 3: Viết chương trình nhập vào từ bàn phím một dãy số (<100)
 phần tử. Đưa ra số bé nhất và vị trí các số bằng số bé nhất
 '''
-
 n = int(input("Nhập số phần tử của dãy: "))
 arr = list(map(int, input("Nhập các phần tử của mảng: ").split()[:n]))
 

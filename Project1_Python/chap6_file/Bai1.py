@@ -14,13 +14,10 @@ i = 1
 while True:
     thi_sinh = {}
     print("Thi sinh {}".format(i))
-
     print("Nhập dữ liệu cho thí sinh thứ {}".format(i))
     thi_sinh["ten"] = input("Nhập họ và tên thí sinh: ")
-    if thi_sinh["ten"] == "***":
-        break
-    else:
-        pass
+    if thi_sinh["ten"] == "***": break
+    else: pass
     thi_sinh["sbd"] = int(input("Số báo danh: "))
     thi_sinh["khoa"] = input("Khoa: ")
     thi_sinh["diem"] = float(input("Điểm: "))

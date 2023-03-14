@@ -15,12 +15,12 @@ def partition(arr, low, high):
 def quick_sort(arr, low, high):
     if low < high:
         pi = partition(arr, low, high)
-        print(pi, end = "")
+        #print(pi, end = "")
         quick_sort(arr, low, pi - 1)
         quick_sort(arr, pi + 1, high)
 
 n = int(input("Nhập số phần tử n: "))
 arr = list(map(int, input("Enter multiple values: ").split()[:n]))
-
+print(arr)
 quick_sort(arr, 0, n-1)
 print(arr)

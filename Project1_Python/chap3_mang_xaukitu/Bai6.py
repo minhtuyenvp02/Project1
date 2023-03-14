@@ -1,5 +1,5 @@
 '''
-Bài 5: Cho mảng 1 chiều các số nguyên.
+Bài 6: Cho mảng 1 chiều các số nguyên.
 Hãy viết hàm tìm giá trị lớn nhất trong mảng có dạng 5^k.
 Nếu mảng khong tồn tại giá trị 5^k thì hàm sẽ trả về 0
 '''

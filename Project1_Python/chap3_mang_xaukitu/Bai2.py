@@ -1,11 +1,6 @@
 '''
 Nhập vào mt dãy số tìm sỗ chẵn nhỏ nhất của dãy
 '''
-
-'''
-Code C:
-'''
-
 #Code Python
 n = int(input("Nhập số phần tử của dãy: "))
 arr = list(map(int, input("Nhập các phần tử của mảng: ").split()[:n]))

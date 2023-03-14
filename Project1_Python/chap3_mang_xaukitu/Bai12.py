@@ -4,7 +4,7 @@ Bài 12: nHập vào mảng số nguyên n phần tử sắp xếp theo thứ t�
 '''
 MAX = 1000
 while True:
-    n = int(input("Nhập số phần tử cảu dãy "))
+    n = int(input("Nhập số phần tử của dãy "))
     if n <= 0 or n > MAX:
         print("Số phần tử không hợp lệ vui lòng nhật lại!")
     else:

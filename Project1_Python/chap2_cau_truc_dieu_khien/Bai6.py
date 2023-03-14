@@ -5,7 +5,6 @@ thức:
 • 30 km tiếp theo có giá là 8000đ/1km
 • Các km sau đó có giá là 6000đ/1km.
 '''
-
 so_km = float(input("Số km đã đi được: "))
 if so_km <= 1:
     print(f"Số tiền phải trả là {so_km * 10000} vnđ")

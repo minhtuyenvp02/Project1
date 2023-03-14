@@ -3,7 +3,6 @@ Bài5: Tìm số nguyên tố lớn nhất trong mảng một chiều các số 
 In ra -1 nếu không có số nguyên tố nào
 '''
 from sympy import isprime
-
 MAX = 100
 while True:
     n = int(input("Nhập số phần tử của dãy: "))
